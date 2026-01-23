@@ -1,6 +1,5 @@
 I am a **Computer Science student** focused on **core CS fundamentals**, problem-solving, and building efficient, reliable software. My primary interests are **Backend Engineering, Systems, and logic-driven development**.
-
-I enjoy understanding how systems work internally—**operating systems, databases, and algorithms**—and applying that knowledge to real-world problems.
+I enjoy understanding how systems work internally **operating systems, databases, and algorithms** and applying that knowledge to real-world problems.
 
 ## About Me
 
@@ -19,43 +18,35 @@ I enjoy understanding how systems work internally—**operating systems, databas
 * **AI / Automation:** Scheduling algorithms, optimization, rule-based and AI-assisted decision making
 
 ## Projects
-
 ### DSA Toolkit
-
 **Tech:** C++, Python
 Built reusable implementations of core data structures and algorithms with complexity analysis to strengthen problem-solving and performance awareness.
 
 ### Process Scheduling Simulator
-
 **Tech:** C++, Operating Systems
 Simulated CPU scheduling algorithms (FCFS, SJF, Round Robin) to analyze system performance and scheduling trade-offs.
 
 ### Database Mini-System
-
 **Tech:** Python, SQL, NoSQL
 Designed and compared relational and NoSQL data models to understand scalability, consistency, and query efficiency.
 
 ### AI Automated Scheduler
-
 **Tech:** Python, SQL, AI / Optimization
 Developed an AI-based automated scheduler for **classes, rooms, and exams**, optimizing schedules based on **student enrollment, instructor availability, and resource constraints**.
 Implemented intelligent conflict resolution and prioritization to improve efficiency and reduce manual planning.
 
 ## Currently Working On
-
 * Improving **DSA and problem-solving skills**
 * Backend- and system-oriented projects
 * Enhancing AI and automation projects for real-world scheduling and optimization
 
 ## Currently Learning
-
 * Advanced DSA
 * Operating Systems internals
 * Backend and database optimization
 * AI-based scheduling and optimization algorithms
 
 ## Role Focus
-
 * Backend Engineer (Primary)
 *  Software Developer
 *  Systems / Core CS
