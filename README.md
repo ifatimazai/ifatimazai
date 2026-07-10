@@ -11,7 +11,7 @@ I enjoy understanding how systems work internally **operating systems, databases
 
 ## Technical Skills
 
-* **Languages:** C++, Python
+* **Languages:** C++, Python, Dart, JavaScript, C# 
 * **Web:** HTML, CSS
 * **Core CS:** Data Structures & Algorithms, Operating Systems, AI fundamentals
 * **Databases:** SQL, NoSQL
